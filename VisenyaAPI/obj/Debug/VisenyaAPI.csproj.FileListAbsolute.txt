@@ -1,0 +1,11 @@
+c:\users\phoenix\source\repos\VisenyaAPI\VisenyaAPI\bin\Debug\VisenyaAPI.dll
+c:\users\phoenix\source\repos\VisenyaAPI\VisenyaAPI\bin\Debug\VisenyaAPI.pdb
+c:\users\phoenix\source\repos\VisenyaAPI\VisenyaAPI\obj\Debug\VisenyaAPI.csproj.CoreCompileInputs.cache
+c:\users\phoenix\source\repos\VisenyaAPI\VisenyaAPI\obj\Debug\VisenyaAPI.dll
+c:\users\phoenix\source\repos\VisenyaAPI\VisenyaAPI\obj\Debug\VisenyaAPI.pdb
+C:\Users\phoen\Desktop\Sources\VisenyaAPI\VisenyaAPI\bin\Debug\VisenyaAPI.dll
+C:\Users\phoen\Desktop\Sources\VisenyaAPI\VisenyaAPI\bin\Debug\VisenyaAPI.pdb
+C:\Users\phoen\Desktop\Sources\VisenyaAPI\VisenyaAPI\obj\Debug\VisenyaAPI.csprojAssemblyReference.cache
+C:\Users\phoen\Desktop\Sources\VisenyaAPI\VisenyaAPI\obj\Debug\VisenyaAPI.csproj.CoreCompileInputs.cache
+C:\Users\phoen\Desktop\Sources\VisenyaAPI\VisenyaAPI\obj\Debug\VisenyaAPI.dll
+C:\Users\phoen\Desktop\Sources\VisenyaAPI\VisenyaAPI\obj\Debug\VisenyaAPI.pdb

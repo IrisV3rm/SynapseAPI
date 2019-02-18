@@ -1,0 +1,9 @@
+E:\Sources\SynapseAPI\VisenyaAPI\bin\Debug\SynapseAPI.dll
+E:\Sources\SynapseAPI\VisenyaAPI\bin\Debug\SynapseAPI.pdb
+E:\Sources\SynapseAPI\VisenyaAPI\bin\Debug\websocket-sharp.xml
+E:\Sources\SynapseAPI\VisenyaAPI\obj\Debug\SynapseAPI.csprojAssemblyReference.cache
+E:\Sources\SynapseAPI\VisenyaAPI\obj\Debug\SynapseAPI.csproj.CoreCompileInputs.cache
+E:\Sources\SynapseAPI\VisenyaAPI\obj\Debug\SynapseAPI.csproj.Fody.CopyLocal.cache
+E:\Sources\SynapseAPI\VisenyaAPI\obj\Debug\SynapseAPI.csproj.CopyComplete
+E:\Sources\SynapseAPI\VisenyaAPI\obj\Debug\SynapseAPI.dll
+E:\Sources\SynapseAPI\VisenyaAPI\obj\Debug\SynapseAPI.pdb
